@@ -11,7 +11,7 @@ export default defineConfig({
     ['list']
   ],
   use: {
-    baseURL: 'https://saucedemo.com',
+    baseURL: 'https://www.saucedemo.com',
     trace: 'retain-on-failure',
     screenshot: 'only-on-failure',
     video: 'on-first-retry',
