@@ -1,19 +1,5 @@
 {
-  "name": "testing-of-sauce-demo",
-  "version": "1.0.0",
-  "description": "",
-  "homepage": "https://github.com/aryna-kachaharava/AQA_test_of_sauce-demo#readme",
-  "bugs": {
-    "url": "https://github.com/aryna-kachaharava/AQA_test_of_sauce-demo/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aryna-kachaharava/AQA_test_of_sauce-demo.git"
-  },
-  "author": "Aryna Kachaharava",
-  "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {
+    "@types/node": "^26.6.2"
   }
 }
